@@ -4,4 +4,6 @@
 * all components are hand-solderable through-hole parts
 * [Qwiic-Compatible](https://www.sparkfun.com/qwiic#faqs)
 
+Use with 38 pin devkitC ESP32 boards
+
 ![image](https://github.com/RCMgames/RCM-Hardware-V4/assets/59814881/adccfb06-a9db-4db0-a004-7929c35aa7d5)
