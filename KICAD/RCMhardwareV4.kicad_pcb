@@ -4745,7 +4745,7 @@
   (gr_text "servo pwr\n" (at 99.187 72.009 270) (layer "B.SilkS") (tstamp 3d0e90ba-4081-434d-bd7e-96a4dc885736)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
-  (gr_text "RCMv4.0.0" (at 77.6732 126.1364) (layer "B.SilkS") (tstamp 5a3d1281-a97a-432a-ab95-60f47a96f1fe)
+  (gr_text "RCMV4  v1.0" (at 78.232 125.73) (layer "B.SilkS") (tstamp 5a3d1281-a97a-432a-ab95-60f47a96f1fe)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
   (gr_text "5v 11 10 9  13  G 12 14 27 26 25 33 32 35 34 39 36 en 3v" (at 85.344 55.626 90) (layer "B.SilkS") (tstamp 695fe445-cc98-45ce-a722-7d6eea41d0ea)
