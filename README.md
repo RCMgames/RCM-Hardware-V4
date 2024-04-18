@@ -7,4 +7,8 @@
 
 Compatible with 38 pin devkitC ESP32 boards
 
+### Alternatives
+* An upgrade from [the original 3 versions of RCM board](https://github.com/RCMgames/RCM_hardware_documentation_and_user_guide)
+* Here are smaller and more powerful RCM boards: [BYTE](https://github.com/RCMgames/RCM-Hardware-BYTE) and [Nibble](https://github.com/RCMgames/RCM-Hardware-Nibble)
+
 ![image](https://github.com/RCMgames/RCM-Hardware-V4/assets/59814881/adccfb06-a9db-4db0-a004-7929c35aa7d5)
