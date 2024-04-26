@@ -18,6 +18,7 @@ Compatible with 38 pin devkitC ESP32 boards
 * send the gerbers to a PCB manufacturer of your choice (details you may be asked for: min hole: 0.3mm, min track/spacing 6/6mil, 1 oz Cu outer)
 
 ## Components
+Solder by hand to assemble your boards.
 | part | links | quantity | notes |
 | ----- | ----- | ----- | ----- |
 | RCM V4 circuit board | see options for purchasing above | 1 | |
