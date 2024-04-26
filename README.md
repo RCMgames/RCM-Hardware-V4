@@ -36,3 +36,6 @@ Solder by hand to assemble your boards.
 | esp32 buck 5v 0.6A | [Pololu](https://www.pololu.com/product/3792) | 0 or 1 | if you want to supply voltages above 7 volts or below 4.5 volts (supplies other than 5AAs |
 
 ![image](https://github.com/RCMgames/RCM-Hardware-V4/blob/2092cd7cd9c14ac5d0ec42b38a93b599232416e5/CAD%20renders/render%200.jpg)
+
+## Acknowledgements
+* I would like to thank [PCBWay](https://www.pcbway.com/) for sponsoring prototyping runs of this project. PCBWay produces very nice boards, supports open source hardware, and gave me great support as I worked on this project. Special thanks to Liam!
