@@ -6,7 +6,7 @@
 
   (title_block
     (title "RCM V4")
-    (rev "v1.1")
+    (rev "v1.2")
     (company "RCMGames")
   )
 
@@ -2044,11 +2044,6 @@
     (uuid fe7373d5-eada-467f-b660-36612c121b31)
   )
 
-  (text "weak pullup, but no pwm detected, test for servo pin"
-    (at 73.66 63.5 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 14606cb2-3f7a-4dfe-a3c8-e6b3a0781fcc)
-  )
   (text "in only" (at 124.46 48.26 90)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1cc9ea43-942a-45a6-bec6-0b43b96a93e9)
@@ -2081,11 +2076,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8a9e7a99-018d-4ea2-a578-a54f0a70b49a)
   )
-  (text "can't be pulled high on boot, but could work for motor?"
-    (at 62.23 68.58 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 97b411c7-05c3-4fe7-bef3-cea1bd045e70)
-  )
   (text "reset" (at 120.65 39.37 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bc1d05b4-c6de-49ef-8db5-68fa40d87356)
@@ -2097,10 +2087,6 @@
   (text "IO 0\n" (at 170.18 69.85 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e31112a8-5a66-4937-bc51-290826f15e29)
-  )
-  (text "pullup, use for servo" (at 177.8 59.69 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid ee3eae71-8f37-4f67-92ca-c715012e15a8)
   )
 
   (global_label "IC1 1B" (shape input) (at 60.96 88.9 0) (fields_autoplaced)
@@ -3622,7 +3608,7 @@
     (property "Value" "10k" (at 107.95 25.4 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (at 107.95 27.432 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 107.95 27.432 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 107.95 29.21 0)
@@ -4116,7 +4102,7 @@
     (property "Value" "30k" (at 115.57 25.4 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (at 115.57 27.432 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 115.57 27.432 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 115.57 29.21 0)
