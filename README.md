@@ -24,9 +24,10 @@ Solder by hand to assemble your boards.
 | RCM V4 circuit board | see options for purchasing above | 1 | |
 | ESP32 devkitC 38 pin | [digikey](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32E/12091810) or find on Amazon | 1 | |
 | L293D | [digikey](https://www.digikey.com/en/products/detail/texas-instruments/L293DNE/379724) | 2 or 3 | |
+| 16 pin IC socket | | 1 or 3 | |
 | 30k resistor | | 1 | |
 | 10k resistor | | 1 | |
-| QT connector | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710) | 2 | |
+| QT connector | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710) | 0 to 2 | |
 | 4 male header pins | | 1 | |
 | 5 male header pins | | 1 | |
 | 4 female header pins | | 3 | |
