@@ -29,7 +29,7 @@ Solder by hand to assemble your boards.
 | 16 pin IC socket | | 0 to 3 | depending on whether you solder the ICs directly and how many motors you want to use |
 | 30k resistor | | 1 | |
 | 10k resistor | | 1 | |
-| QT connector | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710) | 0 to 2 | |
+| Qwiic connector (JST SH) | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710) | 0 to 2 | |
 | 4 male header pins | | 1 | for I2C pins |
 | 5 male header pins | | 1 | for extra input pins |
 | 4 female header pins | | 3 | for motors (can also use one 12 pin strip instead) |
