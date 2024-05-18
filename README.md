@@ -34,7 +34,7 @@ Solder by hand to assemble your boards.
 | 7 male header pins | | 4 | |
 | battery wires | 2 male header pins OR JST RCY OR 9V battery snap | 1 | [Amazon JST RCY](https://www.amazon.com/dp/B00Z04QFN2/) |
 | servo buck boost 5v 2A | [Pololu](https://www.pololu.com/product/4085) | 0 or 1 | if you want to supply voltages above or below what servos can accept (supplies other than 5AAs) |
-| esp32 buck 5v 0.6A | [Pololu](https://www.pololu.com/product/3792) | 0 or 1 | if you want to supply voltages above 7 volts or below 4.5 volts (supplies other than 5AAs |
+| esp32 buck 5v 0.6A | [Pololu](https://www.pololu.com/product/3792) | 0 or 1 | if you want to supply voltages above 7 volts (supplies other than 5AAs) |
 
 ![image](https://github.com/RCMgames/RCM-Hardware-V4/blob/67813489e1e16a104faf787c31854115694284c5/CAD%20renders/render%201.jpg)
 
