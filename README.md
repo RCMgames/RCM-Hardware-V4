@@ -19,7 +19,7 @@ program with [RCMv2](https://github.com/RCMgames/RCMv2)
 
 ## Options for purchasing
 
-* [PCBWay link](https://www.pcbway.com/project/shareproject/RCM_Robot_Control_Module_Version_4_v1_2_43d30732.html) (PCBWay will give me a commission without increasing the price for you). (approximately $5 for 5 boards and manufacturing takes 1-7 days).
+* [PCBWay link](https://www.pcbway.com/project/shareproject/W454600ASI60_gerbers_RCM_Hardware_V4_v1_3_38d50617.html) (PCBWay will give me a commission without increasing the price for you). (approximately $5 for 5 boards and manufacturing takes 1-7 days).
 * send the gerbers to a PCB manufacturer of your choice (details you may be asked for: min hole: 0.3mm, min track/spacing 6/6mil, 1 oz Cu outer)
 
 ## Components
