@@ -41,7 +41,8 @@ Solder by hand to assemble your boards.
 | servo buck boost 5v 2A | [Pololu](https://www.pololu.com/product/4085) | 0 or 1 | if you want to supply voltages above or below what servos can accept (supplies other than 5AAs) |
 | esp32 buck 5v 0.6A | [Pololu](https://www.pololu.com/product/3792) | 0 or 1 | if you want to supply voltages above 7 volts (supplies other than 5AAs) |
 
-![image](https://github.com/RCMgames/RCM-Hardware-V4/blob/67813489e1e16a104faf787c31854115694284c5/CAD%20renders/render%201.jpg)
+![image](https://github.com/RCMgames/RCM-Hardware-V4/blob/02e49bd58bd07ffe95db38a5303c5c172d2a5ed9/photos/P1040795.JPG)
+![image](https://github.com/RCMgames/RCM-Hardware-V4/blob/02e49bd58bd07ffe95db38a5303c5c172d2a5ed9/photos/P1040794.JPG)
 
 ## Acknowledgements
 * I would like to thank [PCBWay](https://www.pcbway.com/) for sponsoring prototyping runs of this project. PCBWay produces very nice boards, supports open source hardware, and gave me great support as I worked on this project. Special thanks to Liam!
