@@ -37,8 +37,9 @@ Solder by hand to assemble your boards.
 | Qwiic connector (JST SH) | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710) | 0 to 2 | |
 | 4 male header pins | | 1 | for I2C pins |
 | 5 male header pins | | 1 | for extra input pins |
-| 4 female header pins | | 3 | for motors (can also use one 12 pin strip instead) |
 | 7 male header pins | | 4 | for servos |
+| 4 female header pins | | 3 | for motors (can also use one 12 pin strip instead) |
+| 19 female header pins | | 2 | for esp32 |
 | battery wires | 2 male header pins OR JST RCY OR 9V battery snap | 1 | [Amazon JST RCY](https://www.amazon.com/dp/B00Z04QFN2/) |
 | servo buck boost 5v 2A | [Pololu](https://www.pololu.com/product/4085) | 0 or 1 | if you want to supply voltages above or below what servos can accept (supplies other than 5AAs) |
 | esp32 buck 5v 0.6A | [Pololu](https://www.pololu.com/product/3792) | 0 or 1 | if you want to supply voltages above 7 volts (supplies other than 5AAs) |
