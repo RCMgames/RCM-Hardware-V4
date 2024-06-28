@@ -5,7 +5,7 @@ v1.3
 * 4 motors and 7 servos OR 6 motors and 3 servos
 * 3 additional input only pins
 * 2 x 3 inches, 50.8 x 76.2 mm
-* runs from 5 NiMH AA batteries OR (_need to test_) 4.5-22v with the addition of voltage regulators (see list of components)
+* runs from 5 NiMH AA batteries OR 4.5-12v with the addition of voltage regulators (see list of components)
 * [Qwiic](https://www.sparkfun.com/qwiic#faqs) connectors OR two more GPIO pins
 * all components are hand-solderable through-hole parts except for the Qwiic connectors which are surface mount
 
