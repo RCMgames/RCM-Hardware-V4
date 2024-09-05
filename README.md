@@ -47,5 +47,7 @@ Solder by hand to assemble your boards.
 ![image](https://github.com/RCMgames/RCM-Hardware-V4/blob/02e49bd58bd07ffe95db38a5303c5c172d2a5ed9/photos/P1040795.JPG)
 ![image](https://github.com/RCMgames/RCM-Hardware-V4/blob/02e49bd58bd07ffe95db38a5303c5c172d2a5ed9/photos/P1040794.JPG)
 
+The six pins at the bottom of the board near the QWIIC connectors are not connected to anything. They are meant to be used for soldering practice before adding components that matter.
+
 ## Acknowledgements
 * I would like to thank [PCBWay](https://www.pcbway.com/) for sponsoring prototyping runs of this project. PCBWay produces very nice boards, supports open source hardware, and gave me great support as I worked on this project. Special thanks to Liam!
