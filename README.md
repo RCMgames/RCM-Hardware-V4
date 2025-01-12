@@ -29,7 +29,7 @@ Solder by hand to assemble your boards.
 | ----- | ----- | ----- | ----- |
 | RCM V4 circuit board | see options for purchasing above | 1 | |
 | ESP32 devkitC 38 pin | [digikey](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32E/12091810) or find on Amazon | 1 | |
-| L293D | [digikey](https://www.digikey.com/en/products/detail/texas-instruments/L293DNE/379724) | 2 or 3 | |
+| L293D (or SN754410) | [digikey](https://www.digikey.com/en/products/detail/texas-instruments/L293DNE/379724) | 2 or 3 | |
 | 16 pin IC socket | | 0 to 3 | depending on whether you solder the ICs directly and how many motors you want to use |
 | 30k resistor | | 1 | |
 | 10k resistor | | 1 | |
